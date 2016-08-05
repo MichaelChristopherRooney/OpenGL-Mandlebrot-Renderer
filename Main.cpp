@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
 
 		lastTime = glfwGetTime();
 
-		zoom *= 1.005f;
+		zoom *= 1.02f;
 
 	}
 
